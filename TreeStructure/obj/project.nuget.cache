@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IfOC4v7cx5Ja6pNWo732Gw9wxdHTNvuKwF9cgvB0vlQFlo3JVjQEKX3YoRRYpCNyMsoATr3XhLsGLG/jZWp7eg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ahmed\\RiderProjects\\ThreadBanchMark\\TreeStructure\\TreeStructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmed\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\oneof\\3.0.216\\oneof.3.0.216.nupkg.sha512"
+  ],
+  "logs": []
+}

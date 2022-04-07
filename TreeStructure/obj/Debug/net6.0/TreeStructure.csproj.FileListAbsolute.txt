@@ -1,0 +1,12 @@
+C:\Users\Ahmed\RiderProjects\ThreadBanchMark\TreeStructure\bin\Debug\net6.0\TreeStructure.deps.json
+C:\Users\Ahmed\RiderProjects\ThreadBanchMark\TreeStructure\bin\Debug\net6.0\TreeStructure.dll
+C:\Users\Ahmed\RiderProjects\ThreadBanchMark\TreeStructure\bin\Debug\net6.0\ref\TreeStructure.dll
+C:\Users\Ahmed\RiderProjects\ThreadBanchMark\TreeStructure\bin\Debug\net6.0\TreeStructure.pdb
+C:\Users\Ahmed\RiderProjects\ThreadBanchMark\TreeStructure\obj\Debug\net6.0\TreeStructure.csproj.AssemblyReference.cache
+C:\Users\Ahmed\RiderProjects\ThreadBanchMark\TreeStructure\obj\Debug\net6.0\TreeStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\RiderProjects\ThreadBanchMark\TreeStructure\obj\Debug\net6.0\TreeStructure.AssemblyInfoInputs.cache
+C:\Users\Ahmed\RiderProjects\ThreadBanchMark\TreeStructure\obj\Debug\net6.0\TreeStructure.AssemblyInfo.cs
+C:\Users\Ahmed\RiderProjects\ThreadBanchMark\TreeStructure\obj\Debug\net6.0\TreeStructure.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\RiderProjects\ThreadBanchMark\TreeStructure\obj\Debug\net6.0\TreeStructure.dll
+C:\Users\Ahmed\RiderProjects\ThreadBanchMark\TreeStructure\obj\Debug\net6.0\ref\TreeStructure.dll
+C:\Users\Ahmed\RiderProjects\ThreadBanchMark\TreeStructure\obj\Debug\net6.0\TreeStructure.pdb
